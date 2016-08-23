@@ -8,4 +8,7 @@
  - Make sure the extension is enabled
  - Open up the external entry page -- [click here if you're using the default project token](https://mixpanel.com/report/1005665/codeless-events/web/external)
  - Type in the URL you want to open the editor on and click "Go"
- - Once the page loads, you should see the editor bar slide down
+ - Once the page loads, you should see the editor bar slide down*
+
+
+    - * *Certain websites (like Facebook and GitHub) prevent the loading of scripts from unauthorized domains. This extension will not work on those websites.*
