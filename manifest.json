@@ -1,9 +1,13 @@
 {
     "manifest_version": 2,
 
-    "name": "Mixpanel CE Visual Editor",
+    "name": "Mixpanel JS Lib Injector",
     "description": "This extension will inject the Mixpanel JS library into every page",
     "version": "1.1",
+    "icons": { 
+        "48": "icon48.png",
+        "128": "icon128.png" 
+    },
     "options_ui": {
         "page": "options.html",
         "chrome_style": true
